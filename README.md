@@ -8,7 +8,6 @@
 
 ## Habilidades
 - **Linguagens:** Python, Java, JavaScript
-- **Banco de Dados:** MySQL, PostgreSQL
 - **Ferramentas:** Git, Docker, VS Code
 - **Outras:** Resolução de problemas, Trabalho em equipe, Boas práticas de código (Clean Code)
 
